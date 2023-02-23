@@ -1,0 +1,17 @@
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Open.ai.image.exe
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Open.ai.image.deps.json
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Open.ai.image.runtimeconfig.json
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Open.ai.image.dll
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Open.ai.image.pdb
+D:\workspace\Lab\open.ai.img\Open.ai.image\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.csproj.AssemblyReference.cache
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.AssemblyInfoInputs.cache
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.AssemblyInfo.cs
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.csproj.CoreCompileInputs.cache
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.csproj.CopyComplete
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.dll
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\refint\Open.ai.image.dll
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.pdb
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\Open.ai.image.genruntimeconfig.cache
+D:\workspace\Lab\open.ai.img\Open.ai.image\obj\Debug\net6.0\ref\Open.ai.image.dll
